@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Switch } from "@/components/ui/switch";
-import { Settings, User, Bell, Shield, Globe, Palette, Save, Edit } from "lucide-react";
+import { User, Bell, Shield, Globe, Palette, Save, Edit } from "lucide-react";
 
 export function SettingsPage() {
   return (

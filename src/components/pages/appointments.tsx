@@ -59,7 +59,7 @@ export function AppointmentsPage() {
         <Card className="rounded-xl border-l-4 border-l-blue-500">
           <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
             <CardTitle className="text-sm font-medium text-muted-foreground">
-              Today's Appointments
+              Today&apos;s Appointments
             </CardTitle>
             <Calendar className="h-4 w-4 text-blue-600" />
           </CardHeader>
@@ -124,7 +124,7 @@ export function AppointmentsPage() {
       {/* Appointments List */}
       <Card className="rounded-xl">
         <CardHeader>
-          <CardTitle>Today's Schedule</CardTitle>
+          <CardTitle>Today&apos;s Schedule</CardTitle>
         </CardHeader>
         <CardContent>
           <div className="space-y-4">

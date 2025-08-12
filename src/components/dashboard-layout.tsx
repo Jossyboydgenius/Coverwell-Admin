@@ -53,37 +53,7 @@ import { ClaimsPage } from "@/components/pages/claims";
 import { VerificationPage } from "@/components/pages/verification";
 import { SettingsPage } from "@/components/pages/settings";
 
-const sidebarItems = [
-  {
-    title: "Dashboard",
-    icon: LayoutDashboard,
-    isActive: true,
-  },
-  {
-    title: "User Management",
-    icon: UserCheck,
-  },
-  {
-    title: "Insurance Plans",
-    icon: Shield,
-  },
-  {
-    title: "Premium Payments",
-    icon: CreditCard,
-  },
-  {
-    title: "Claims Management",
-    icon: ClipboardList,
-  },
-  {
-    title: "Verification",
-    icon: CheckCircle,
-  },
-  {
-    title: "Logout",
-    icon: LogOut,
-  },
-];
+
 
 const recentEnrollments = [
   {

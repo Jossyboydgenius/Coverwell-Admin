@@ -4,7 +4,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import { CheckCircle, Search, Filter, AlertCircle, Clock, FileCheck, Shield, Eye } from "lucide-react";
+import { CheckCircle, Search, Filter, AlertCircle, Clock, FileCheck, Eye } from "lucide-react";
 
 const verifications = [
   {
